@@ -1,0 +1,20 @@
+{
+  "app": {
+    "version": "1.2.5",
+    "date": "2026-11-11",
+    "notes": [
+      "默认更新地址改为 GitHub Pages，同学开箱即用",
+      "多地址并行探测，先成功的先返回",
+      "检查更新超时 8 秒"
+    ],
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v1.2.5/hpi-trainer-1.2.5.exe",
+    "size": 77272454,
+    "sha256": "50796100e6c925131bf6a68d5d183c7a6f58d3d46c4d3ad1b4a2adaaa4520641"
+  },
+  "bank": {
+    "version": "2026.11.11",
+    "count": 34,
+    "notes": "17 个症状、34 道题，含主诉评分",
+    "url": "bank.json"
+  }
+}

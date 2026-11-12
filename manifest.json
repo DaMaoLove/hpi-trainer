@@ -1,15 +1,16 @@
 {
   "app": {
-    "version": "1.2.7",
-    "date": "2026-11-11",
+    "version": "2.0.0",
+    "date": "2026-11-12",
     "notes": [
-      "本地版本高于服务器时，界面正确显示「无需更新」",
-      "下载遇证书校验失败自动降级重试",
-      "手填地址失效自动回退默认地址"
+      "升级为 3+3 期末助手：按学期组织课程",
+      "临床医学概要拆成现病史采集、选择题、名词解释、简答题、案例分析",
+      "病理学加入单元测试、阶段测试卷、名词解释（题库待补）",
+      "新增左侧学习导航与面包屑"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v1.2.7/hpi-trainer-1.2.7.exe",
-    "size": 77266509,
-    "sha256": "93c2e1544cd0f673a24266b4c4c164428f6ea84ffe73f0ffb9b7763f86cc0dae"
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.0.0/hpi-trainer-2.0.0.exe",
+    "size": 77271052,
+    "sha256": "0040b84c9dc657de83d7f5ba94cc7f285c1568f0a71b37bbd573e7bce0b4e31a"
   },
   "bank": {
     "version": "2026.11.11",

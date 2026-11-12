@@ -1,16 +1,17 @@
 {
   "app": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "date": "2026-11-12",
     "notes": [
       "课程卡片加入教材封面缩略图",
-      "按钮样式统一，补上边框",
+      "按钮样式统一补上边框",
+      "窗口标题简化为「3+3 期末助手」",
       "顶栏副标题改为「六年制 · 全学期课程」",
       "更新支持夸克网盘下载"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.0.2/hpi-trainer-2.0.2.exe",
-    "size": 77485824,
-    "sha256": "3b7e31f524d8260ed2abc8d6c9393a3d0dc66aca4ec26344b3ec6647290fd990",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.0.3/hpi-trainer-2.0.3.exe",
+    "size": 77488717,
+    "sha256": "ac6e5a1af21b2e305584dad6677cc5bb27cace7f37ca7cd230a2f8d61d134678",
     "quark": {
       "url": "https://pan.quark.cn/s/8aa9d9898d71",
       "code": "7ivH"

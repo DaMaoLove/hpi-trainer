@@ -1,17 +1,16 @@
 {
   "app": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "date": "2026-11-12",
     "notes": [
-      "病理学新增答题系统：单选题、多选题、判断题、病理分析题",
-      "支持顺序/乱序组卷，进度自动保存",
-      "提交即批改，红绿标注对错并显示解析",
-      "新增模拟卷与错题卷，答错自动归档、答对移出",
-      "首页课程卡片支持教材封面"
+      "病理学题库上线：294 道题（单选 189 / 多选 45 / 判断 60）",
+      "题目来自学习通病理学作业，答案已逐题整理",
+      "答题支持顺序/乱序、断点续做、提交即批改",
+      "新增模拟卷与错题卷，答错归档、答对移出"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.1.0/hpi-trainer-2.1.0.exe",
-    "size": 77479945,
-    "sha256": "25f5bd7f120fa1ba943425a505bc09093c143b64c32b4583cd8877a54b0ea702",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.2.0/hpi-trainer-2.2.0.exe",
+    "size": 77499561,
+    "sha256": "48233817b4355efbc69768314e324c52142d16b11c6f0280e6be7909c6f3a53b",
     "quark": {
       "url": "https://pan.quark.cn/s/8aa9d9898d71",
       "code": "7ivH"

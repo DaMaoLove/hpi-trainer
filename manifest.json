@@ -1,16 +1,20 @@
 {
   "app": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "date": "2026-11-12",
     "notes": [
-      "课程总览页新增「检查更新」入口，顶栏也常驻一个",
-      "新增「意见反馈」「赞助题库资料」，可直接带附件发到发布者邮箱",
-      "更新弹窗支持 GitHub / 夸克网盘两种下载方式",
-      "新增练习记录导出与导入，换版本不丢数据"
+      "课程卡片加入教材封面缩略图",
+      "按钮样式统一，补上边框",
+      "顶栏副标题改为「六年制 · 全学期课程」",
+      "更新支持夸克网盘下载"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.0.1/hpi-trainer-2.0.1.exe",
-    "size": 77274339,
-    "sha256": "e32773cbeb16cd0038acb993e0490de89091913e3a756cc48bf4f5aa6db523d4"
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.0.2/hpi-trainer-2.0.2.exe",
+    "size": 77485824,
+    "sha256": "3b7e31f524d8260ed2abc8d6c9393a3d0dc66aca4ec26344b3ec6647290fd990",
+    "quark": {
+      "url": "https://pan.quark.cn/s/8aa9d9898d71",
+      "code": "7ivH"
+    }
   },
   "bank": {
     "version": "2026.11.11",

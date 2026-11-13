@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "date": "2026-11-13",
     "notes": [
-      "更新弹窗里「夸克网盘手动更新」改为与「一键更新」同等样式",
-      "课程总览去掉重复的检查更新按钮，顶栏按钮改为实色更醒目",
-      "连不上服务器时也能直接跳夸克网盘手动更新（内置兜底链接）"
+      "更新弹窗的题库区改为两门课分列：现病史采集与病理学",
+      "病理学题库标注为「随客户端更新」，不再与现病史混淆",
+      "去掉过期的题库描述文案"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.3/hpi-trainer-2.3.3.exe",
-    "size": 77505665,
-    "sha256": "6cb849085dabb716aba46cc401e241032a526caeed60aa0986c5ded18bbf4014",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.4/hpi-trainer-2.3.4.exe",
+    "size": 77508287,
+    "sha256": "c2f1c4c7f193a95f90383ae4a9a53546315f1a0be546a9466fe469cf340e47f4",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

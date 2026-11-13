@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "date": "2026-11-13",
     "notes": [
-      "修复课程卡片统计：病理学改为按题库动态计算模块数",
-      "病理学静态占位模块已清空，避免与题库脱节",
-      "错题卷改为常开（没有错题时点进去会提示）"
+      "更新弹窗里「夸克网盘手动更新」改为与「一键更新」同等样式",
+      "课程总览去掉重复的检查更新按钮，顶栏按钮改为实色更醒目",
+      "连不上服务器时也能直接跳夸克网盘手动更新（内置兜底链接）"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.2/hpi-trainer-2.3.2.exe",
-    "size": 77505348,
-    "sha256": "b9146c110c154bf48f4963bc97d81c348e8a54ddec790a1a7da816e99217cffa",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.3/hpi-trainer-2.3.3.exe",
+    "size": 77505665,
+    "sha256": "6cb849085dabb716aba46cc401e241032a526caeed60aa0986c5ded18bbf4014",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

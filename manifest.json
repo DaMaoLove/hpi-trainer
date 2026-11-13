@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "2.4.3",
+    "version": "2.4.5",
     "date": "2026-11-13",
     "notes": [
-      "「赞助题库资料」「意见反馈」移至顶栏，与「检查更新」同款配色，意见反馈在最右",
-      "课程总览页移除这两个入口",
-      "「题海刷题」描述修正：删去与实际矛盾的「自动打乱顺序」字样"
+      "修复：赞助题库资料与意见反馈正式进入顶栏（上一版因脚本缺陷未写入）",
+      "课程总览页残留按钮已清理",
+      "窄窗口下顶栏按钮自动换行不再被裁切"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.3/hpi-trainer-2.4.3.exe",
-    "size": 77519982,
-    "sha256": "117069aa947a9bc6b97b9463b5d5fc5572584b913df60aa081b15e1357a4bf5b",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.5/hpi-trainer-2.4.5.exe",
+    "size": 77513358,
+    "sha256": "f37b928776f611fb69b888459948ae9496a656bc646cdda9b945a61f78445a82",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

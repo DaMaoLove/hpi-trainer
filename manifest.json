@@ -1,16 +1,15 @@
 {
   "app": {
-    "version": "2.4.0",
+    "version": "2.4.1",
     "date": "2026-11-13",
     "notes": [
-      "新增键盘快捷键：A~E 选答案、Enter 提交翻题、左右方向键回退",
-      "新增病理学学习概况面板：各题型正确率、累计作答、最近成绩",
-      "新增收藏夹：答题时点星标收藏，重点题集中刷",
-      "答题记录持久化：每次交卷自动存历史成绩"
+      "新增深色模式：顶栏月亮/太阳按钮一键切换，自动记忆",
+      "深色下导航、答题、统计面板、弹窗全面适配",
+      "答题页已批改后右侧按钮改为「答题卡」，不再与主按钮重复"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.0/hpi-trainer-2.4.0.exe",
-    "size": 77516572,
-    "sha256": "9221b5b9d60355cc850f588874da864778e93a55a215fba8a5f5f486660b370a",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.1/hpi-trainer-2.4.1.exe",
+    "size": 77500806,
+    "sha256": "efd8225d54d40abea2f776cc5444c6ecd5fb9b554dac1a898afae4f3016b0971",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "date": "2026-11-13",
     "notes": [
-      "新增深色模式：顶栏月亮/太阳按钮一键切换，自动记忆",
-      "深色下导航、答题、统计面板、弹窗全面适配",
-      "答题页已批改后右侧按钮改为「答题卡」，不再与主按钮重复"
+      "「模拟卷」更名为「题海刷题」：整个题库混在一起刷，自动打乱顺序",
+      "模块标签显示实际题数",
+      "确认题库已零重复（276 题归一化查重通过）"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.1/hpi-trainer-2.4.1.exe",
-    "size": 77500806,
-    "sha256": "efd8225d54d40abea2f776cc5444c6ecd5fb9b554dac1a898afae4f3016b0971",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.2/hpi-trainer-2.4.2.exe",
+    "size": 77507461,
+    "sha256": "4f136f08e081863ef6da3eff109757eb19d921ae3fbd77f6dac6793652844b7b",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

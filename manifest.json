@@ -1,16 +1,16 @@
 {
   "app": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "date": "2026-11-13",
     "notes": [
-      "题库替换为学习通官方版：344 题（单选 229 / 多选 48 / 判断 65 / 病例 2）",
-      "答案全部来自作业详情页参考答案，不再需要人工校对",
-      "57 道题带官方解析",
-      "题库更新后自动清理旧错题，避免题号错位"
+      "题目 id 改为题干哈希，增删题目不再影响已有错题",
+      "错题本按 id 过滤，只剔除确实被删掉的题",
+      "未完成进度同样按 id 保留，删题时自动修正题号",
+      "同一题干重复出现时自动去重"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.0/hpi-trainer-2.3.0.exe",
-    "size": 77511871,
-    "sha256": "03e68763d3139c61d51747823245d5879a1d64155f23a78ddfe02d715b711ac2",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.1/hpi-trainer-2.3.1.exe",
+    "size": 77505556,
+    "sha256": "36cd33979cee3d82426d94757972e98d11cc3aeaefb4b473852a5716efd21928",
     "quark": {
       "url": "https://pan.quark.cn/s/8aa9d9898d71",
       "code": "7ivH"

@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "date": "2026-11-13",
     "notes": [
-      "「模拟卷」更名为「题海刷题」：整个题库混在一起刷，自动打乱顺序",
-      "模块标签显示实际题数",
-      "确认题库已零重复（276 题归一化查重通过）"
+      "「赞助题库资料」「意见反馈」移至顶栏，与「检查更新」同款配色，意见反馈在最右",
+      "课程总览页移除这两个入口",
+      "「题海刷题」描述修正：删去与实际矛盾的「自动打乱顺序」字样"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.2/hpi-trainer-2.4.2.exe",
-    "size": 77507461,
-    "sha256": "4f136f08e081863ef6da3eff109757eb19d921ae3fbd77f6dac6793652844b7b",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.3/hpi-trainer-2.4.3.exe",
+    "size": 77519982,
+    "sha256": "117069aa947a9bc6b97b9463b5d5fc5572584b913df60aa081b15e1357a4bf5b",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

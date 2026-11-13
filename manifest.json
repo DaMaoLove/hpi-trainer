@@ -1,16 +1,15 @@
 {
   "app": {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "date": "2026-11-13",
     "notes": [
-      "题目 id 改为题干哈希，增删题目不再影响已有错题",
-      "错题本按 id 过滤，只剔除确实被删掉的题",
-      "未完成进度同样按 id 保留，删题时自动修正题号",
-      "同一题干重复出现时自动去重"
+      "修复课程卡片统计：病理学改为按题库动态计算模块数",
+      "病理学静态占位模块已清空，避免与题库脱节",
+      "错题卷改为常开（没有错题时点进去会提示）"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.1/hpi-trainer-2.3.1.exe",
-    "size": 77505556,
-    "sha256": "36cd33979cee3d82426d94757972e98d11cc3aeaefb4b473852a5716efd21928",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.2/hpi-trainer-2.3.2.exe",
+    "size": 77505348,
+    "sha256": "b9146c110c154bf48f4963bc97d81c348e8a54ddec790a1a7da816e99217cffa",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }

@@ -1,15 +1,16 @@
 {
   "app": {
-    "version": "2.3.4",
+    "version": "2.4.0",
     "date": "2026-11-13",
     "notes": [
-      "更新弹窗的题库区改为两门课分列：现病史采集与病理学",
-      "病理学题库标注为「随客户端更新」，不再与现病史混淆",
-      "去掉过期的题库描述文案"
+      "新增键盘快捷键：A~E 选答案、Enter 提交翻题、左右方向键回退",
+      "新增病理学学习概况面板：各题型正确率、累计作答、最近成绩",
+      "新增收藏夹：答题时点星标收藏，重点题集中刷",
+      "答题记录持久化：每次交卷自动存历史成绩"
     ],
-    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.3.4/hpi-trainer-2.3.4.exe",
-    "size": 77508287,
-    "sha256": "c2f1c4c7f193a95f90383ae4a9a53546315f1a0be546a9466fe469cf340e47f4",
+    "url": "https://github.com/DaMaoLove/hpi-trainer/releases/download/v2.4.0/hpi-trainer-2.4.0.exe",
+    "size": 77516572,
+    "sha256": "9221b5b9d60355cc850f588874da864778e93a55a215fba8a5f5f486660b370a",
     "quark": {
       "url": "https://pan.quark.cn/s/77b55fa568cf"
     }
